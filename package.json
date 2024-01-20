@@ -1,0 +1,19 @@
+{
+  "name": "testingangularjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Janzeb Masiano <janzebmasiano@yahoo.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.8.14",
+    "jasmin": "0.0.2",
+    "karma": "^6.4.2"
+  },
+  "dependencies": {
+    "karma-cli": "^2.0.0"
+  }
+}
